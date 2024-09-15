@@ -1,1 +1,23 @@
+*{
+    background-color: blanchedalmond;
+    text-align: center;
+    color: blueviolet;
+}
 
+h3{
+    margin: 10px;
+}
+
+button{
+    margin: 10px;
+}
+
+#shopupgrade-container{
+    width: 50%;
+    margin: auto;
+}
+
+#cookie-raw{
+    display: flex;
+    justify-content: space-around;
+}
